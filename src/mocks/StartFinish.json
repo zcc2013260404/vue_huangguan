@@ -1,0 +1,17 @@
+{
+    "Sinatv":{
+        "userimage":"/assets/Jin/111.png",
+        "user":"lemon_120",
+        "userid":4194051
+    },
+    "Ranking":{
+        "userimage":[
+            "/assets/Jin/111.png",
+            "/assets/Jin/111.png",
+            "/assets/Jin/111.png"
+        ],
+        "num":{
+            "integral":0
+        }
+    }
+}

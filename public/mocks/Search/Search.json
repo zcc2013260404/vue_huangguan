@@ -1,0 +1,71 @@
+[
+	{
+	  "username": "张三是个可爱的小宝宝",
+	  "userimage": "http://122.51.57.152:4000/images/list.jpg",
+	  "每个用户的粉丝量": "234",
+	  "vipclass": 2,
+	  "NobleSign": 2,
+	  "focus": true
+	},
+  {
+    "username": "张三是个可爱的小宝宝",
+    "userimage": "http://122.51.57.152:4000/images/list.jpg",
+    "每个用户的粉丝量": "234",
+    "vipclass": 2,
+    "NobleSign": 2,
+    "focus": true
+  },
+  {
+    "username": "张三是个可爱的小宝宝",
+    "userimage": "http://122.51.57.152:4000/images/list.jpg",
+    "每个用户的粉丝量": "234",
+    "vipclass": 1,
+    "NobleSign": 2,
+    "focus": true
+  },
+  {
+    "username": "张三是个可爱的小宝宝",
+    "userimage": "http://122.51.57.152:4000/images/list.jpg",
+    "每个用户的粉丝量": "234",
+    "vipclass":3,
+    "NobleSign": 2,
+    "focus": false
+  },
+  {
+    "username": "张三是个可爱的小宝宝",
+    "userimage": "http://122.51.57.152:4000/images/list.jpg",
+    "每个用户的粉丝量": "234",
+    "vipclass": 6,
+    "NobleSign": 2,
+    "focus": false
+  },{
+  "username": "张三是个可爱的小宝宝",
+  "userimage": "http://122.51.57.152:4000/images/list.jpg",
+  "每个用户的粉丝量": "234",
+  "vipclass": 5,
+  "NobleSign": 2,
+  "focus": false
+},{
+  "username": "张三是个可爱的小宝宝",
+  "userimage": "http://122.51.57.152:4000/images/list.jpg",
+  "每个用户的粉丝量": "234",
+  "vipclass": 2,
+  "NobleSign": 2,
+  "focus": false
+},{
+  "username": "张三是个可爱的小宝宝",
+ "userimage": "http://122.51.57.152:4000/images/list.jpg",
+  "每个用户的粉丝量": "234",
+  "vipclass": 2,
+  "NobleSign": 2,
+  "focus": false
+},{
+  "username": "张三是个可爱的小宝宝",
+   "userimage": "http://122.51.57.152:4000/images/list.jpg",
+  "每个用户的粉丝量": "234",
+  "vipclass": 2,
+  "NobleSign": 2,
+  "focus": false
+}
+]
+

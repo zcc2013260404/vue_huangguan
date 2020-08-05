@@ -1,0 +1,401 @@
+{
+  "_comment": "以下所有这个字段都为备注信息",
+  "attentions": {
+    "_comment": "这里是一个已关注并正在直播的主播列表和一个这里是推荐关注的主播列表",
+    "attentionliving": [
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "你关注的昵称",
+		"src":"点击之后跳转至该用户直播页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "你关注的",
+		"src":"点击之后跳转至该用户直播页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "你关注的",
+		"src":"点击之后跳转至该用户直播页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "你关注的",
+		"src":"点击之后跳转至该用户直播页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "你关注的",
+		"src":"点击之后跳转至该用户直播页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "你关注的",
+		"src":"点击之后跳转至该用户直播页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "你关注的",
+		"src":"点击之后跳转至该用户直播页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "你关注的",
+		"src":"点击之后跳转至该用户直播页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "你关注的",
+		"src":"点击之后跳转至该用户直播页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "你关注的",
+		"src":"点击之后跳转至该用户直播页面"
+      }
+    ],
+    "recommendedattention": [
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "推荐关注",
+        "location": "地址1",
+		"src":"点击之后跳转至该用户页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "推荐关注",
+        "location": "地址2",
+		"src":"点击之后跳转至该用户页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "推荐关注",
+        "location": "地址3",
+		"src":"点击之后跳转至该用户页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "推荐关注",
+        "location": "地址4",
+		"src":"点击之后跳转至该用户页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "推荐关注",
+        "location": "地址5",
+		"src":"点击之后跳转至该用户页面"
+      },
+      {
+        "userimage":"http://122.51.57.152:4000/images/list.jpg",
+        "userid": "推荐关注",
+        "location": "地址6",
+		"src":"点击之后跳转至该用户页面"
+      }
+    ]
+  },
+  "recommend": {
+    "banner": [
+      {
+        "img": "http://122.51.57.152:4000/images/banner01.png",
+        "src": "跳转链接"
+      },
+      {
+        "img": "http://122.51.57.152:4000/images/banner02.png",
+        "src": "跳转链接"
+      },
+      {
+        "img": "http://122.51.57.152:4000/images/banner03.png",
+        "src": "跳转链接"
+      }
+    ],
+    "advertisement": "广告图",
+    "specialrecommend": [
+      {
+        "_comment": "特别推荐有四个,下面的tag是魅力主播、才艺主播、新秀主播等tag图片",
+        "images": "http://122.51.57.152:4000/images/list.jpg",
+        "tag": "http://122.51.57.152:4000/images/meili.png",
+        "userid": "我是特别推荐",
+        "vipclass": "http://122.51.57.152:4000/images/vip.png",
+        "location": "地址",
+		"src":"点击之后跳转至该直播页面"
+      },
+      {
+        "images": "http://122.51.57.152:4000/images/images.jpg",
+        "tag": "http://122.51.57.152:4000/images/xinxiu.png",
+        "userid": "我是特别推荐",
+        "vipclass": "http://122.51.57.152:4000/images/vip.png",
+        "location": "地址",
+		"src":"点击之后跳转至该直播页面"
+      },
+      {
+        "images": "http://122.51.57.152:4000/images/images.jpg",
+        "tag": "http://122.51.57.152:4000/images/renqi.png",
+        "userid": "我是特别推荐",
+        "vipclass": "http://122.51.57.152:4000/images/vip.png",
+        "location": "地址",
+		"src":"点击之后跳转至该直播页面"
+
+      },
+      {
+        "images": "http://122.51.57.152:4000/images/images.jpg",
+        "tag": "http://122.51.57.152:4000/images/caiyi.png",
+        "userid": "我是特别推荐",
+        "vipclass": "http://122.51.57.152:4000/images/vip.png",
+        "location": "地址",
+		"src":"点击之后跳转至该直播页面"
+      }
+    ],
+    "generalrecommend": [
+      {
+        "_comment": "普通推荐,下面的tag是人美歌甜、清纯可爱、天籁之音等tag图片",
+        "images": "http://122.51.57.152:4000/images/images.jpg",
+        "tag": "http://122.51.57.152:4000/images/renmeigetian.png",
+        "userid": "我是普通推荐",
+        "vipclass": "",
+        "location": "地址",
+		"src":"点击之后跳转至该直播页面"
+      },
+      {
+        "images": "http://122.51.57.152:4000/images/list.jpg",
+        "tag": "http://122.51.57.152:4000/images/xingganrewu.png",
+        "userid": "我是普通推荐",
+        "vipclass": "",
+        "location": "地址",
+		"src":"点击之后跳转至该直播页面"
+      },
+      {
+        "images": "http://122.51.57.152:4000/images/images.jpg",
+        "tag": "http://122.51.57.152:4000/images/tianlanzhiyin.png",
+        "userid": "我是普通推荐",
+        "vipclass": "",
+        "location": "地址",
+		"src":"点击之后跳转至该直播页面"
+      },
+      {
+        "images": "http://122.51.57.152:4000/images/images.jpg",
+        "tag": "http://122.51.57.152:4000/images/qingchun.png",
+        "userid": "我是普通推荐",
+        "vipclass": "",
+        "location": "地址",
+		"src":"点击之后跳转至该直播页面"
+      }
+    ]
+  },
+  "nearanchor": [
+    {
+      "_comment": "附近,下面的tag是人美歌甜、清纯可爱、天籁之音等tag图片,company传媒公司等",
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "http://122.51.57.152:4000/images/qingchun.png",
+      "userid": "我是附近主播",
+      "vipclass": "http://122.51.57.152:4000/images/vip.png",
+      "location": "地址",
+      "company": "",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "http://122.51.57.152:4000/images/qingchun.png",
+      "userid": "我是附近主播",
+      "vipclass": "",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是附近主播",
+      "vipclass": "http://122.51.57.152:4000/images/vip.png",
+      "location": "地址",
+      "company": "",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "http://122.51.57.152:4000/images/qingchun.png",
+      "userid": "我是附近主播",
+      "vipclass": "",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "http://122.51.57.152:4000/images/qingchun.png",
+      "userid": "我是附近主播",
+      "vipclass": "",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是附近主播",
+      "vipclass": "http://122.51.57.152:4000/images/vip.png",
+      "location": "地址",
+      "company": "",
+	  "src":"点击之后跳转至该直播页面"
+    }
+  ],
+  "talents": [
+    {
+      "_comment": "才艺,下面的tag是人美歌甜、清纯可爱、天籁之音等tag图片,company传媒公司等",
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "cctv",
+      "vipclass": "http://122.51.57.152:4000/images/vip.png",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "http://122.51.57.152:4000/images/tianlanzhiyin.png",
+      "userid": "我是才艺主播",
+      "vipclass": "",
+      "location": "地址",
+      "company": "",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "http://122.51.57.152:4000/images/tianlanzhiyin.png",
+      "userid": "我是才艺主播",
+      "vipclass": "http://122.51.57.152:4000/images/vip.png",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是才艺主播",
+      "vipclass": "",
+      "location": "地址",
+      "company": "",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "http://122.51.57.152:4000/images/tianlanzhiyin.png",
+      "userid": "我是才艺主播",
+      "vipclass": "",
+      "location": "地址",
+      "company": "",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "http://122.51.57.152:4000/images/tianlanzhiyin.png",
+      "userid": "我是才艺主播",
+      "vipclass": "http://122.51.57.152:4000/images/vip.png",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    }
+  ],
+  "newstars": [
+    {
+      "_comment": "新星,下面的tag是人美歌甜、清纯可爱、天籁之音等tag图片,company传媒公司等",
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是新星",
+      "vipclass": "",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是新星",
+      "vipclass": "",
+      "location": "地址",
+      "company": "",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是新星",
+      "vipclass": "",
+      "location": "地址",
+      "company": "",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是新星",
+      "vipclass": "",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是新星",
+      "vipclass": "",
+      "location": "地址",
+      "company": "",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是新星",
+      "vipclass": "",
+      "location": "地址",
+      "company": "",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是新星",
+      "vipclass": "",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是新星",
+      "vipclass": "",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是新星",
+      "vipclass": "",
+      "location": "地址",
+      "company": "",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是新星",
+      "vipclass": "",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    },
+    {
+      "images": "http://122.51.57.152:4000/images/images.jpg",
+      "tag": "",
+      "userid": "我是新星",
+      "vipclass": "",
+      "location": "地址",
+      "company": "传媒公司",
+	  "src":"点击之后跳转至该直播页面"
+    }
+  ],
+  "paper": true
+}

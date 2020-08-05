@@ -1,0 +1,301 @@
+[{
+  "day": [{
+    "userid": "张三三三三",
+    "userimage": "http://123.57.233.41:4000/images/list.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三三三三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张sanansan",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三三三三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张sanansan",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三三三三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张sanansan",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  }],
+  "week": [{
+    "userid": "lisi",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/list.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张sanansan",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三三三三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张sanansan",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三三三三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张sanansan",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  }],
+  "month": [{
+    "userid": "wangwu",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/list.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  }]
+},
+{
+  "day": [{
+    "userid": "李四",
+    "userimage": "http://123.57.233.41:4000/images/list.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  }],
+  "week": [{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/list.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  }],
+  "month": [{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/list.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  }]
+},
+{
+  "day": [{
+    "userid": "王五",
+    "userimage": "http://123.57.233.41:4000/images/list.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  }],
+  "week": [{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/list.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  }],
+  "month": [{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/list.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  },{
+    "userid": "张三",
+    "userimage": "http://123.57.233.41:4000/images/112.jpg",
+    "vipclass": "http://123.57.233.41:4000/images/vip.png",
+    "charsma": "12.444亿"
+  }]
+}]
+

@@ -1,0 +1,114 @@
+[{
+  "day": [{
+    "UserName": "张三",
+    "UserImg": "img",
+    "Grade": "12",
+    "Charm": "12.444亿"
+  },{
+    "UserName": "张三",
+    "UserImg": "img",
+    "Grade": "12",
+    "Charm": "12.444亿"
+  }],
+  "week": [{
+    "UserName": "张三",
+    "UserImg": "img",
+    "Grade": "12",
+    "Charm": "12.444亿"
+  },{
+    "UserName": "张三",
+    "UserImg": "img",
+    "Grade": "12",
+    "Charm": "12.444亿"
+  }],
+  "month": [{
+    "UserName": "张三",
+    "UserImg": "img",
+    "Grade": "12",
+    "Charm": "12.444亿"
+  },{ "UserName": "张三",
+    "UserImg": "img",
+    "Grade": "12",
+    "Charm": "12.444亿"},
+    { "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"},
+    { "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"},
+    { "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"}]
+},
+  {
+    "day": [{
+      "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"
+    },{
+      "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"
+    }],
+    "week": [{
+      "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"
+    },{
+      "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"
+    }],
+    "month": [{
+      "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"
+    },{
+      "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"
+    }]
+  },
+  {
+    "day": [{
+      "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"
+    },{
+      "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"
+    }],
+    "week": [{
+      "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"
+    },{"UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"}],
+    "month": [{
+      "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"
+    },{
+      "UserName": "张三",
+      "UserImg": "img",
+      "Grade": "12",
+      "Charm": "12.444亿"
+    }]
+  }]
+
